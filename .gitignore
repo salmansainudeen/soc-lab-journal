@@ -1,0 +1,4 @@
+*.pcap
+*.evtx
+secrets*
+*.key
