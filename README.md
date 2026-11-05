@@ -16,6 +16,7 @@ what broke, what I learned, one commit at a time.
 ## Detections (coming in Phase 2)
 | # | Attack | MITRE | Wazuh rule | Sigma rule | Status |
 |---|--------|-------|-----------|-----------|--------|
+| 0 | Failed logons, local test | T1110.001 | 60122 | | detected (local, 5 Nov) |
 | 1 | Password spraying | T1110.003 | | | planned |
 | 2 | Kerberoasting | T1558.003 | | | planned |
 | 3 | AS-REP roasting | T1558.004 | | | planned |
